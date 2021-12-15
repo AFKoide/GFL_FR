@@ -1,0 +1,18 @@
+.h1 {
+    font-size: larger;
+    text-decoration: underline;
+}
+
+.h2 {
+    font-size: large;
+}
+
+.h3 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.h4 {
+    font-size: 13px;
+    font-style: italic;
+}
