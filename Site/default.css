@@ -16,3 +16,8 @@
     font-size: 13px;
     font-style: italic;
 }
+
+body {
+    background-image: url('./Site/Ribeyrolles.png');
+    background-repeat: space repeat;
+}
