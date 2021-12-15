@@ -29,7 +29,7 @@ Le serveur tourne sur <u>1.12.2</u>.
 Antinomi est le propriétaire du serveur, mais s'il est absent, AFK a les droits d'admin (si il abuse, hésitez pas a le reporter).  
 
 Si vous avez des mods a rajouter, proposer les dans #autres-jeux.
-Les mods dans [Attente de Jugement](#attente-de-jugement) seront ajoutés si il y a consensus.
+Les mods dans [Attente de Jugement](#attente-de-jugement) seront ajoutés si il y a consensus.  
 
 ## Mods
 
@@ -49,11 +49,14 @@ Coroutil
 
 #### Énergétique 
 
+[Flux Network](https://www.curseforge.com/minecraft/mc-mods/flux-networks) (est un peu PT, mais réduira les lags causé par les fils électriques).  
+
 #### Qualité de vie
 
 JourneyMap  
 Craft Tweaker 2  
-[Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm/files) (CTM)
+[Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm/files) (CTM)  
+Ender Storage  
 
 #### Combat
 
@@ -61,10 +64,12 @@ Craft Tweaker 2
 
 Applied Energistic 2  
 
+
 #### Déco
 
 [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)  
 [Bloc Craftery](https://www.curseforge.com/minecraft/mc-mods/blockcraftery)  
+[MrCrayfish’s Furniture](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) (furniture)  
 
 ### Client
 
@@ -90,3 +95,4 @@ AppleSkin
 
 Advanced Rocketry  
 Extreme Reactors
+Engineers Doll/Decor  
