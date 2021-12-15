@@ -1,63 +1,92 @@
 # GFL Minecraft
 
+Tout savoir sur le serveur Minecraft GFL_FR.  
+
 - [GFL Minecraft](#gfl-minecraft)
+  - [Avant Propos](#avant-propos)
   - [Mods](#mods)
-    - [Essentiel](#essentiel)
+    - [Les Essentiel](#les-essentiel)
     - [Serveur](#serveur)
-      - [GFL & Relatif](#gfl--relatif)
+      - [Librairies](#librairies)
       - [Énergétique](#énergétique)
       - [Qualité de vie](#qualité-de-vie)
       - [Combat](#combat)
       - [Industrie](#industrie)
       - [Déco](#déco)
     - [Client](#client)
-      - [GFL & Relatif](#gfl--relatif-1)
       - [Énergétique](#énergétique-1)
       - [Qualité de vie](#qualité-de-vie-1)
       - [Combat](#combat-1)
       - [Industrie](#industrie-1)
       - [Déco](#déco-1)
+    - [Attente de Jugement](#attente-de-jugement)
+
+## Avant Propos
+
+Le serveur tourne sur <u>1.12.2</u>.  
+**10 joueurs maximum** en même temps. Cette règle a été mise en place pour éviter la saturation de la ram (et avec les machines+dolls, on va l'atteindre).  
+
+Antinomi est le propriétaire du serveur, mais s'il est absent, AFK a les droits d'admin (si il abuse, hésitez pas a le reporter).  
+
+Si vous avez des mods a rajouter, proposer les dans #autres-jeux.
+Les mods dans [Attente de Jugement](#attente-de-jugement) seront ajoutés si il y a consensus.
 
 ## Mods
 
-### Essentiel 
+### Les Essentiel 
 
-GVClib  
-HMG DollsFrontLine
+[GVClib](https://forum.civa.jp/viewtopic.php?f=3&t=35)  
+[HMG DollsFrontLine](https://forum.civa.jp/viewtopic.php?f=3&t=36)
 
 ### Serveur
 
-#### GFL & Relatif
+#### Librairies
+
+Code Chicken Lib
+CoFH Core
+CoFH World
+Coroutil
 
 #### Énergétique 
 
 #### Qualité de vie
 
-JourneyMap
+JourneyMap  
+Craft Tweaker 2  
+[Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm/files) (CTM)
 
 #### Combat
 
 #### Industrie
 
+Applied Energistic 2  
+
 #### Déco
 
+[Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)  
+[Bloc Craftery](https://www.curseforge.com/minecraft/mc-mods/blockcraftery)  
 
 ### Client
 
-Hormis ceux préciser, 
-
-#### GFL & Relatif
+Hormis ceux préciser, tous les mods serveurs doivent être également installés sur le client.
 
 #### Énergétique 
 
 #### Qualité de vie
 
-JourneyMap (facultatif car déjà sur le serveur).
+JourneyMap (facultatif car déjà sur le serveur).  
+Just Enough Items  
 
-AppleSkin
+AppleSkin  
 
 #### Combat
 
 #### Industrie
 
 #### Déco
+
+
+### Attente de Jugement
+
+Advanced Rocketry  
+Extreme Reactors
