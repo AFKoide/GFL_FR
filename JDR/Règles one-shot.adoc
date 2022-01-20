@@ -31,7 +31,9 @@ Vous pouvez changer un accessoire sur votre arme dans le feu de l'action. Cela p
 
 === Fusil de Précision (RF)
 ==== Talent :
-Durant votre tour de jeu, vous pouvez utiliser votre action pour *prendre position*. Quand vous êtes en position, vous pouvez tirer à n'importe quel moment, 
+Durant votre tour de jeu, vous pouvez utiliser votre action pour *prendre position*. 
+
+Dans ce, vous pouvez tirer à n'importe quel moment, 
 ==== Passif :
 Vous avez la possibilité d’analyser
 
