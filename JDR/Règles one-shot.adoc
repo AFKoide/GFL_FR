@@ -1,9 +1,9 @@
-= Mes Règles de JDR
+= JDR GFL One-Shot
 :hardbreaks:
 
 == Introduction
 
-Bienvenue chez Griffin & Kruger
+Bienvenue chez Griffin & Kruger.
 
 Vous incarnez une Doll tactique, une androïde reconvertie qui ont remplacé les humains sur les champs de bataille suite à la troisième guerre mondiale.
 Vous répondez aux ordres d’un commandant de Griffin & Kruger (ou G&K), une société paramilitaire internationale.
@@ -17,8 +17,7 @@ Avant de travailler pour G&K, votre doll exerçait une activité civile. Elle fu
 
 Chaque classe a un talent et un passif qui lui est propre.
 Les types d'équipements utilisables sont également différent pour chaque classe.
-Chaque personnage aura une compétence active, qui sera unique pour chaque arme.
-
+Chaque personnage aura une compétence active, qui sera unique pour chaque T-Dolls.
 
 === Pistolet (HG)
 ==== Talent :
@@ -27,17 +26,20 @@ Durée du CD : 10 tours (quand le Zepher est activé), 10mn (hors combat).
 Passif :
 
 === Fusil d’Assaut (AR)
-==== Talent :
+==== Passif :
 Vous pouvez changer un accessoire sur votre arme dans le feu de l'action. Cela prendra une action bonus.
 
 === Fusil de Précision (RF)
 ==== Talent :
+Durant votre tour de jeu, vous pouvez utiliser votre action pour *prendre position*. Quand vous êtes en position, vous pouvez tirer à n'importe quel moment, 
+==== Passif :
 Vous avez la possibilité d’analyser
 
 === Fusil à Pompe (SG)
 ==== Talent :
 Sur une action, il vous est possible de passer de l'état *à découvert* à celui de *couverture partielle*. Votre vitesse de déplacement est divisée par deux, et votre abri est *blindé*. 
-Passif :
+
+==== Passif :
 Équipé de plaques d’armure amovible, vous réduisez passivement les dégâts que vous recevez. De plus, vous pouvez vous en servir pour aider votre équipe.
 
 === Fusil Mitrailleur (MG)
@@ -113,7 +115,7 @@ Il n'y a aucune restriction sur le type de viseur qui peut être équipé par ch
 .Grenade
 [%collapsible]
 ====
-Chaque doll peut emporter jusqu'à 3 grenades.
+Chaque doll peut emporter jusqu'à 3 grenades (sauf exceptions).
 [%autowidth.stretch]
 |===
 |Nom |Effet
@@ -142,4 +144,5 @@ Au cas où l'une d'entre elle subit une tentative de piratage, les autres dolls 
 //Une doll ne peut pas mourir à proprement parlé, elle ne perdra que les souvenirs suivant sa dernière sauvegarde.
 
 Au début de chaque partie, chaque personnage démarre avec 5 dummies : chaque dummy représente une vie. Ne plus en avoir revient à "mourir", à moins qu'un autre personnage propose d'offrir une de ses dummy. Il est toujours possible de demander un ravitaillement en cours de partie, et il y a une chance qu'il contienne des dummies (voir le chapitre sur le soutient).
+
 Chaque dummy perdue diminue également les statistiques brutes de votre personnage.
