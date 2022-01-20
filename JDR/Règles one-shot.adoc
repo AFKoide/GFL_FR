@@ -1,0 +1,145 @@
+= Mes Règles de JDR
+:hardbreaks:
+
+== Introduction
+
+Bienvenue chez Griffin & Kruger
+
+Vous incarnez une Doll tactique, une androïde reconvertie qui ont remplacé les humains sur les champs de bataille suite à la troisième guerre mondiale.
+Vous répondez aux ordres d’un commandant de Griffin & Kruger (ou G&K), une société paramilitaire internationale.
+
+Suite à un accident ayant eu lieu en 2061, Griffin est en guerre contre Sangvis Ferry (ou SF), un ancien concepteur et fabricant d’armes : suite à des évènements mystérieux, SF est tombée sous la joue d’une IA sentiente répondant au nom de Mastermind. Cette dernière, aux agissements inconnus, n’a eu de cesse de vous attaquer…
+
+Avant de travailler pour G&K, votre doll exerçait une activité civile. Elle fut donc conçue pour répondre aux besoins
+
+
+== Classes
+
+Chaque classe a un talent et un passif qui lui est propre.
+Les types d'équipements utilisables sont également différent pour chaque classe.
+Chaque personnage aura une compétence active, qui sera unique pour chaque arme.
+
+
+=== Pistolet (HG)
+==== Talent :
+Si un allié à moins de 15m de vous rate une action, et que son échec n’est pas critique, vous pouvez refaire son test. Votre succès ou échec sera le sien, une réussite réduira le CD à 0, une réussite critique donnera en plus à toutes les entités alliées à proximité un bonus pour tous les jets en rapport avec la raison de l’activation du talent. Un échec mettra votre talent en CD, et un échec critique aura le même effet qu’un échec, avec en plus un test à faire par la suite, test à réussir sans quoi le talent sera une nouvelle fois en CD.
+Durée du CD : 10 tours (quand le Zepher est activé), 10mn (hors combat).
+Passif :
+
+=== Fusil d’Assaut (AR)
+==== Talent :
+Vous pouvez changer un accessoire sur votre arme dans le feu de l'action. Cela prendra une action bonus.
+
+=== Fusil de Précision (RF)
+==== Talent :
+Vous avez la possibilité d’analyser
+
+=== Fusil à Pompe (SG)
+==== Talent :
+Sur une action, il vous est possible de passer de l'état *à découvert* à celui de *couverture partielle*. Votre vitesse de déplacement est divisée par deux, et votre abri est *blindé*. 
+Passif :
+Équipé de plaques d’armure amovible, vous réduisez passivement les dégâts que vous recevez. De plus, vous pouvez vous en servir pour aider votre équipe.
+
+=== Fusil Mitrailleur (MG)
+==== Talent :
+A la fin de son tour, vous avez la possibilité de supprimer une zone jusqu’à votre prochain tour.
+Chaque entité qui voudra traverser la zone devra lancer un dé : s’il échoue, l’entité sera considérée comme étant touchée par une rafale et prendra des dégâts.
+
+
+== Equipements
+:table-caption!: 
+
+WARNING: Il faudra refaire l'équilibrage car je suis une bite.
+
+[%autowidth.stretch]
+.Munition
+|===
+|Nom |Classe |Effet |Description
+|Armor Piercing (AP) |MG/RF |Pénètre a coup sur le blindage et les surfaces renforcée. Si la cible ne respecte pas ces prérequis, elle fait une sur-pénétration, ce qui divise les dégâts par deux.
+5d10 de dégâts.
+Suppressible|
+|Subsonique (SB) |SMG/AR | Munition complètement silencieuse. Ne peut pas pénétrer les surfaces renforcés & le blindage.
+3d6 de dégâts
+Silencieuse|
+|Hollow Point (HP) |SMG/HG/AR |Aucune pénétration. Cause des dégâts supplémentaire si pénètre la chair.
+Suppressible|
+|Dragon Breath (Pyro) |MG/AR/SG |Aucune pénétration. Enflamme le point d'impact et inflige des dégâts de feu sur la durée. 
+Suppressible |Munition interdite par la convention de Genève, alors faites attention à ce que personne ne puisse le rapporter.
+|Cartouche 00 (00) |SG | Munition classique. Bonne pénétration, portée correcte et cone correcte. Peu de chevrotine.
+Suppressible| Munition standard pour tous fusils à cartouches.
+|Bird Shot (BS) |SG | Tire de plus petite chevrotine. 
+Très faible pénétration, nombre de chevrotine supérieur à la cartouche 00 classique, portée et précision réduite. 
+Suppressible |Normalement utilisé pour la chasse, ces munitions sont drôlement efficace contre les cibles faites de chair.
+|High Explosive (HE) |SG |Produit une explosion de 3m de portée autour du point d'impact. Précision élevé, portée moyenne et une seule chevrotine.
+3d6 de dégâts d'explosion.
+Bruyante| Permet à tous fusils à pompe de se transformer, le temps d'un tir, en un lance grenade.
+|Slug Shot (SS) |SG |Tire une seule munition lourde qui pénètre tout, causant de très gros dégâts. Précision, portée et pénétration très élevé. 
+Suppressible| Votre fusil devient un sniper.
+|===
+
+.Explication
+[%collapsible]
+====
+* Les tirs utilisant des munitions bruyantes ne peuvent pas être rendue silencieuse.
+* Les tirs utilisant des munitions silencieuses ne nécessitent pas de silencieux ou compétence qui réduisent le bruit pour être silencieuses.
+* Les tirs utilisant des munitions suppressibles sont bruyantes mais peuvent devenir silencieuse si on utilise un accessoire ou une compétence.
+====
+
+Il n'y a aucune restriction sur le type de viseur qui peut être équipé par chaque classe.
+
+[%autowidth.stretch]
+.Viseurs
+|===
+|Nom |Effet |Description
+|Mire |Bonus précision courte portée ; malus longue portée |La mire de votre arme. Ne peut pas se casser mais ne vous permettra pas de voir très loin.
+|Point Rouge |Même avantage que Mire, bonus plus important et malus réduit |Comme la mire, mais fait plus stylé. 
+|ACOG |Bonus Moyenne/Longue Portée. |Lunette avec un grossissement moyen. 
+|Thermique |Permet de voir les empreintes thermiques. Fonctionne à travers les fumigènes. |
+|Lentille de Précision |Avantage Longue Portée ; Désavantage Courte Portée.|Viseur avec le plus grand zoom. 
+|===
+
+[%autowidth.stretch]
+.Accessoires
+|===
+|Nom |Classe |Emplacement |Effet |Description
+|Suppresseur |* sauf MG |Canon |Rend vos tirs silencieux. |
+|Viseur Laser & Lampe Tactique |* |Avant |- Mode Lampe : éclaire le noir. Peut être vue.
+- Mode Laser: bonus tir au jugé et permet de désigner sans parler. |
+|Bipied |RF/MG/AR |Avant |Si appuyé sur un abri ou le sol, prend une action pour se mettre en position. Gagne précision parfaite. Ne peut plus bouger ou se tourner.|
+|Poignée |AR/SMG/SG/MG |Avant |Améliore la précision de la visée en position accroupi et debout.|
+|Lance Grenade |AR/SMG |Avant |Permet de tirer une grenade au prix d'une action. Chargeur de 1 (sauf cas contraire).| 
+|===
+
+.Grenade
+[%collapsible]
+====
+Chaque doll peut emporter jusqu'à 3 grenades.
+[%autowidth.stretch]
+|===
+|Nom |Effet
+|Fumigène| Couvre une zone de 6 mètres de diamètre avec une épaisse fumée.
+|Slug| Tire une lourde balle avec un pouvoir pénétrant élevé.
+|Frag| Explosion d'un rayon de 1.5m. 5d10.
+|Incendiaire| Couvre une zone de 6 mètres de diamètre avec un liquide hautement inflammable.
+|Chevrotine| Tire une cartouche de chevrotine qui fait de très gros dégâts à courte portée.
+|===
+====
+Chaque dolls aura des accessoires prédéfinis : ces accessoires seront ceux présent sur le skin choisi pour illustrer votre doll.
+
+== Gameplay
+
+Avant toute chose, les dolls ont besoin de recharger dans le JDR : leur chargeur aura la même capacité que dans la réalisé, à moins qu'un chargeur augmenté soit équipé, ou soit sur l'artwork de base.
+
+=== Connexion Zepher
+
+En opération, les T-Dolls peuvent se synchroniser à l'aide du protocole Zepher.
+Une fois activé, elles n'ont plus besoin de parler pour échanger des informations. 
+
+Au cas où l'une d'entre elle subit une tentative de piratage, les autres dolls connecté à travers le protocole doivent elles aussi faire un test. Si elles le réussissent, elles pourront porter assistance à celles ayant échoué. Cependant, si elles ratent leur jet, elles subiront un malus (un stun par exemple).
+
+=== Mort
+
+//Une doll ne peut pas mourir à proprement parlé, elle ne perdra que les souvenirs suivant sa dernière sauvegarde.
+
+Au début de chaque partie, chaque personnage démarre avec 5 dummies : chaque dummy représente une vie. Ne plus en avoir revient à "mourir", à moins qu'un autre personnage propose d'offrir une de ses dummy. Il est toujours possible de demander un ravitaillement en cours de partie, et il y a une chance qu'il contienne des dummies (voir le chapitre sur le soutient).
+Chaque dummy perdue diminue également les statistiques brutes de votre personnage.
