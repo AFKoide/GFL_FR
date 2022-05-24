@@ -1,0 +1,16 @@
+Tout le monde a un type de corps identique.
+Android de combat uniformisé, capable d'utiliser tous types d'armes.
+
+
+Gestion de l'inventaire par emplacement :
+Légère = 1 emplacement
+Moyenne = 2 
+"Lourd" = 3 
+
+Équipement peut faire +- emplacement
+
+Plusieurs types d'équipement :
+Armures Corporelles
+Consommables
+Armes
+Accessoires
