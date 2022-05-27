@@ -1,13 +1,12 @@
 Tout le monde a un type de corps identique.
 Android de combat uniformisé, capable d'utiliser tous types d'armes.
+Peut avoir des éléments distinctifs.
+
+Inventaire :
+Gestion à la Tarkov ; x carré, chaque équipement prend +-.
 
 
-Gestion de l'inventaire par emplacement :
-Légère = 1 emplacement
-Moyenne = 2 
-"Lourd" = 3 
 
-Équipement peut faire +- emplacement
 
 Plusieurs types d'équipement :
 Armures Corporelles
