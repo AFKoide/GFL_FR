@@ -42,7 +42,7 @@ L'installation finie, ouvrez le launcher officiel de Minecraft (si c'est ce que 
 - Choisissez la version Forge que vous venez d'installer dans le menu déroulant (le nom contient Forge, 1.12.2 et la version de Forge installée).
 - Pour plus de facilité dans la gestion des fichiers, créez un répertoire du jeu : toujours dans le launcher, cliquez sur Parcourir > Créer un nouveau dossier et [tapez le même nom que votre session].
 - Dans **Plus d'Options**, remplacez le 2 qui se trouve dans **Arguments JVM** par un 6 ou un 8. Cet argument défini la mémoire vive allouée à Minecraft ; il est impossible de lancer ce modpack avec moins de 6Mb de RAM. <br>
-`-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M` deviendra
+`-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M` deviendra <br>
 `-Xmx6G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M`
 
 <br />
