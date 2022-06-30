@@ -12,6 +12,7 @@
 <br />
 [Lien de la prochaine version](https://github.com/AFKoide/GFL_FR/releases/download/future/mods.rar)
 <br />
+
 ## Règles
 
 Le serveur est à la version <u>1.12.2</u>.<br />
