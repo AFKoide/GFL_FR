@@ -9,7 +9,7 @@
 
 ## Règles
 
-Le serveur est à la version <u>1.12.2</u>.<br />
+Le serveur est à la version <u>1.12.2</u> et necessite une version officielle de Minecraft.<br />
 <br />
 **10 joueurs maximum en même temps**. Cette règle a été mise en place pour éviter la saturation de la ram.<br />
 <br />
