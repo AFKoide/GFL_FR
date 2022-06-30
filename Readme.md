@@ -34,13 +34,13 @@ La liste des mods se trouve [ici](https://afkoide.github.io/GFL_FR/).
 #### Forge
 
 Tout d'abord, il faut installer [forge 1.12.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) (mise a jour supérieur à 14.23.5.2856) pour que le mod GFL fonctionne.<br/>
-Une fois le fichier .jar télécharger, il faut l'executer ; un message d'avertissement devrait apparaître (vous pouvez l'ignorer).<br />
+Une fois téléchargé, executer le fichier ; un message d'avertissement devrait apparaître : ignorer le.<br />
 Une fenêtre d'installation devrait s'ouvrir : si Minecraft est déjà installé sur votre ordinateur, l'installateur trouvera automatiquement le répertoire de Minecraft (le chemin devrait ressembler à: *C:\Users\[nom de la session]\AppData\Roaming\.minecraft*). <br />
 <br />
-Une fois l'installation terminée, si vous utilisez le launcher officiel Minecraft, lancez le et allez dans l'onglet **Configuration**. Créez une **Nouvelle Configuration**.
-- Choisissez un nom pour votre version qui se connectera au serveur (oar exemple, GFL).
+L'installation finie, ouvrez le launcher officiel de Minecraft (si c'est ce que vous utilisez) et allez dans l'onglet **Configuration**. Cliquez sur **Nouvelle Configuration** : nous allons créer une session pour le modpack.
+- Choisissez un nom pour votre session (par exemple, GFL).
 - Choisissez la version Forge que vous venez d'installer dans le menu déroulant (le nom contient Forge, 1.12.2 et la version de Forge installée).
-- Créez un répertoire du jeu : Parcourir > Créer un nouveau dossier > [Nommer le dossier].
+- Pour plus de facilité dans la gestion des fichiers, créez un répertoire du jeu : toujours dans le launcher, cliquez sur Parcourir > Créer un nouveau dossier et [tapez le même nom que votre session].
 - Dans **Plus d'Options**, remplacez le 2 qui se trouve dans **Arguments JVM** par un 6 ou un 8. Cet argument défini la mémoire vive allouée à Minecraft ; il est impossible de lancer ce modpack avec moins de 6Mb de RAM.
 `-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M` deviendra
 `-Xmx6G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M`
@@ -54,5 +54,5 @@ Pour un guide d'installation plus détaillé, consulter [ce guide](https://minec
 
 #### Modpack
 
-Ce modpack doit être décompresser dans le répertorie d'origine de votre Minecraft. Ce dernier se trouve dans Appdata > Roaming > .minecraft (> [Nom du Profil]).<br />
+Ce modpack doit être décompresser dans le répertorie de votre session, dans le dossier Minecraft. Ce dernier se trouve dans Appdata > Roaming > .minecraft > [Nom choisit plus tôt].<br />
 
