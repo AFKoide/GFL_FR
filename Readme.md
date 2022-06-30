@@ -51,8 +51,9 @@ Pour un guide d'installation plus détaillé, consulter [ce guide](https://minec
 
 #### Modpack
 
-Ce modpack doit être décompresser dans le dossier mods de votre Minecraft. Ce dernier se trouve dans Appdata > Roaming > .minecraft (> [Nom du Profil]).<br />
+Ce modpack doit être décompresser dans le répertorie d'origine de votre Minecraft. Ce dernier se trouve dans Appdata > Roaming > .minecraft (> [Nom du Profil]).<br />
 <br />
-Ce modpack est composé d'un dossier *mods* qui contient tous les mods utilisé, et d'un second dossier *client* : <br />
-- Pour la partie <u>serveur</u>, le dossier client est inutile (ce sont des mods locaux).
-- Pour le launcher <u>client</u>, ajouter les mods du dossier client dans le dossier parent (mods).
+<br />
+[Lien de la release](https://github.com/AFKoide/GFL_FR/releases/download/modpack/mods.rar)
+<br />
+[Lien de la prochaine version](https://github.com/AFKoide/GFL_FR/releases/download/future/mods.rar)
