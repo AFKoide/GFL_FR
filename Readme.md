@@ -6,7 +6,12 @@
     - [Installation](#installation)
       - [Forge](#forge)
       - [Modpack](#modpack)
-
+<br />
+<br />
+[Lien de la release](https://github.com/AFKoide/GFL_FR/releases/download/modpack/mods.rar)
+<br />
+[Lien de la prochaine version](https://github.com/AFKoide/GFL_FR/releases/download/future/mods.rar)
+<br />
 ## Règles
 
 Le serveur est à la version <u>1.12.2</u>.<br />
@@ -52,8 +57,4 @@ Pour un guide d'installation plus détaillé, consulter [ce guide](https://minec
 #### Modpack
 
 Ce modpack doit être décompresser dans le répertorie d'origine de votre Minecraft. Ce dernier se trouve dans Appdata > Roaming > .minecraft (> [Nom du Profil]).<br />
-<br />
-<br />
-[Lien de la release](https://github.com/AFKoide/GFL_FR/releases/download/modpack/mods.rar)
-<br />
-[Lien de la prochaine version](https://github.com/AFKoide/GFL_FR/releases/download/future/mods.rar)
+
