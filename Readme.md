@@ -7,12 +7,6 @@
       - [Forge](#forge)
       - [Modpack](#modpack)
 
-<br />
-[Lien de la release](https://github.com/AFKoide/GFL_FR/releases/download/modpack/mods.rar)
-<br />
-[Lien de la prochaine version](https://github.com/AFKoide/GFL_FR/releases/download/future/mods.rar)
-<br />
-
 ## Règles
 
 Le serveur est à la version <u>1.12.2</u>.<br />
@@ -27,6 +21,9 @@ Chaque joueur a le droit à un échelon de 5 dolls maximum : les dolls suppléme
 <br />
 Le PVP est actif et non sanctionné.<br /> 
 <br /> 
+[Lien de la release](https://github.com/AFKoide/GFL_FR/releases/download/modpack/mods.rar)
+<br />
+[Lien de la prochaine version](https://github.com/AFKoide/GFL_FR/releases/download/future/mods.rar)
 
 ## Mod
 
