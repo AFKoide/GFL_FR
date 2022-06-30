@@ -6,7 +6,7 @@
     - [Installation](#installation)
       - [Forge](#forge)
       - [Modpack](#modpack)
-<br />
+
 <br />
 [Lien de la release](https://github.com/AFKoide/GFL_FR/releases/download/modpack/mods.rar)
 <br />
