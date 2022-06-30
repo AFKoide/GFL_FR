@@ -27,7 +27,7 @@ Le PVP est actif et non sanctionné.<br />
 
 ## Mod
 
-La liste des mods se trouve [ici](https://afkoide.github.io/GFL_FR/).
+La liste des mods se trouve [ici](https://afkoide.github.io/GFL_FR/Liste des Mods.md).
 
 ### Installation
 
