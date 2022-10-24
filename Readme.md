@@ -20,9 +20,8 @@ Si vous avez des mods a rajouter, proposer les dans #autres-jeux. N'hésitez pas
 Chaque joueur a le droit à un échelon de 5 dolls maximum : les dolls supplémentaires pourront être conservé sous forme d'armes et de cores d'arme. Cette règle a été établie pour la même raison que la limite de joueur : la RAM est limitée.<br />
 <br />
 Le PVP est actif et non sanctionné.<br /> 
-<br /> 
+
 [Lien de la version actuelle](https://github.com/AFKoide/GFL_FR/releases/download/modpack/mods.rar)
-<br />
 [Lien de la prochaine version](https://github.com/AFKoide/GFL_FR/releases/download/future/mods.rar)
 
 ## Mod
